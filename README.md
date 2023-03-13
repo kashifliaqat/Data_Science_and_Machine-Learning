@@ -1,8 +1,6 @@
 <img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/ML.jpg" alt="Machine Learning" width="800" height="500">
 
 
-
-
 # Data Science and Machine Learning
 This repo is developed as a course portfolio for the graduate class "INDE 577 - Data Science and Machine Learning" at Rice University, Sping 2023. 
 
@@ -28,13 +26,21 @@ Machine learning is a tool used by data scientists to extract insights from data
 
 ## Content 
 The following is the list of algorithms developed and discussed in this portfolio. 
+### [Supervised Learning](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning)
+- [Perceptron](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/1_Perceptron)
+- [Gradient Descent](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/2_Gradient%20Descent) 
+- [Single Neuron Linear Regression](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/3_Single_Neuron_Linear_Regression)
+- [Logistic Regression](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/4_Logistic_Regression)
 
-1. Perceptron
-2. Gradient Descent 
-3. Logistic Regression
+### Unsupervised Learning
+
+### Reinforcement Learning
 
 ## Datasets
 All datasets used in this work are publically available. The source and description of each dataset used is provided within the respective model. 
+
+## Tools and Packages
+Python, Visual Studio Code, Jupyter Nootbooks, Scikit-learn, TensorFlow, Keras, Matplotlib, Numpy, Pandas, Seaborn. 
 
 ## About the Author
 ### Kashif Liaqat
