@@ -22,9 +22,10 @@ Each input unit is connected to the output unit with a weight, and the bias unit
 
 ### Working of Perceptron
 The output of the perceptron is determined by the following formula:
-$$
-y = \text{step}(w_0 + w_1x_1 + w_2x_2 + \ldots + w_nx_n)
-$$
+
+$$w_i = w_i + \text{learning_rate} \times (target - output) \times x_i$$
+
+
 where:
 
 - $x_1$, $x_2$, $\ldots$, $x_n$ are the input features
@@ -34,9 +35,9 @@ where:
 
 The perceptron learns by adjusting the weights based on the error between the predicted output and the true output. The weights are updated using the following formula:
 
-$$
-w_i = w_i + \text{learning\_rate} \times (target - output) \times x_i
-$$
+$$w_i = w_i + \text{learning_rate} \times (target - output) \times x_i$$
+
+
 where:
 
 - $w_i$ is the weight for the current input feature $x_i$
