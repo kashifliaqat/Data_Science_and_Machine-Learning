@@ -1,4 +1,4 @@
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/ML.jpg" alt="Machine Learning" width="500" height="300">
+<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/ML.jpg" alt="Machine Learning" width="800" height="500">
 
 
 
