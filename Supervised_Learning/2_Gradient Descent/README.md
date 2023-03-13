@@ -46,7 +46,7 @@ where $w$ is the weight vector, $\alpha$ is the learning rate, $m$ is the number
 
 4. Repeat steps 2-3 until the cost function converges to a minimum or a maximum number of iterations is reached.
 
-#### Conclusion
+#### Summarization
 Gradient Descent is an important optimization algorithm used in machine learning to find the local minimum of the cost function. By iteratively adjusting the parameters of the model in the opposite direction of the gradient of the cost function, the algorithm can converge to the optimal values of the parameters. The learning rate is a hyperparameter that needs to be carefully chosen, as a too high learning rate can cause the algorithm to diverge and a too low learning rate can cause the algorithm to converge too slowly.
 
 ## Resources/References
