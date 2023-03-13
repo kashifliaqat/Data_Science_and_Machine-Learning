@@ -16,6 +16,7 @@ Batch gradient descent is an optimization algorithm that can be used to minimize
 
 ## Working of Gradient Descent
 Gradient Descent is an optimization algorithm used to minimize the cost function of a machine learning model. It works by iteratively adjusting the weights of the model in the opposite direction of the gradient of the Mean Squared Error (MSE) loss function with respect to the weights, in order to find the local minimum of the cost function.
+
 <img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/grad_desc.png" alt="Gradient Descent">
 
 Image Source: [Gradient Descent in Machine Learning, Java T Point](https://www.javatpoint.com/gradient-descent-in-machine-learning)
@@ -37,7 +38,8 @@ where:
 3. Update the weights of the model using gradient descent update rule:
 
 $$w_{j} = w_{j} - \alpha \frac{\partial}{\partial w_{j}} J(w)$$
-or
+
+
 $$w_j = w_j - \alpha \frac{1}{m} \sum_{i=1}^m (h_w(x^{(i)}) - y^{(i)}) x_j^{(i)}$$
 
 where $w$ is the weight vector, $\alpha$ is the learning rate, $m$ is the number of training examples, $x^{(i)}$ is the feature vector of the $ith$ th training example, $y^{(i)}$ is the corresponding label (either 0 or 1), and $h_w(x^{(i)})$ is the predicted label for the $ith$ training example. The weight vector $w$ is updated for each iteration $j$ using the gradient of the cost function with respect to $w_j$.
