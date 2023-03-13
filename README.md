@@ -3,39 +3,45 @@
 
 
 
-# Data_Science_and_Machine-Learning
-INDE 577 @ Rice University - Spring 2023
+# Data Science and Machine Learning
+This repo is developed as a course portfolio for the graduate class "INDE 577 - Data Science and Machine Learning" at Rice University, Sping 2023. 
 
+In this course, multiple algorithms for supervised, unsupervised, and reinforcement learning are discussed. The machine learning algorithms are implemented from scract as well as uisng state-of-the-art packages such as Scikit-Learn, Keras, and Tensorflow. 
 
-
-# Introduction to Machine Learning and Data Science
+## Introduction to Machine Learning and Data Science
 
 Machine learning and data science are two rapidly growing fields in the world of technology. They are often used together to analyze and extract insights from large datasets.
 
-## What is Data Science?
+### Data Science
 
 Data science is the study of data, its structure, and its analysis. It involves using statistical and computational techniques to extract meaningful insights from data. Data science includes tasks such as data cleaning, data visualization, and statistical modeling.
 
-![Data Science Process](https://miro.medium.com/max/1838/1*maEzxJiZjKshRklPpMvLJw.png)
-_Image Source: [Towards Data Science](https://towardsdatascience.com/data-science-process-4-steps-for-beginners-ac7dee557c9b)_
-
-## What is Machine Learning?
+### Machine Learning
 
 Machine learning is a subset of artificial intelligence that involves training machines to learn patterns and make predictions based on data. It involves developing algorithms that can learn from data and improve their performance over time. Machine learning is often used for tasks such as image recognition, natural language processing, and predictive modeling.
 
-![Machine Learning Types](https://miro.medium.com/max/875/1*Cb-Wkz3qV7Ws-G6yAhxS7A.png)
-_Image Source: [Medium](https://medium.com/@ssarkar111/types-of-machine-learning-algorithms-you-should-know-f788a8d2ddfe)_
-
-## How do Machine Learning and Data Science Work Together?
+### Machine Learning and Data Science Together
 
 Machine learning is a tool used by data scientists to extract insights from data. Data scientists use machine learning algorithms to identify patterns and trends in large datasets. Machine learning can also be used to develop predictive models that can be used to forecast future trends or make decisions based on data.
 
-![Machine Learning vs Data Science](https://miro.medium.com/max/1000/1*xDCd5f5WwZE8hBexZzJbGg.png)
-_Image Source: [Medium](https://medium.com/analytics-vidhya/machine-learning-vs-data-science-what-they-are-and-how-they-differ-8e031a4fb61f)_
+- Data science involves the study of data, while machine learning involves developing algorithms that can learn from data. Together, they form a powerful combination that can be used to solve complex problems and make data-driven decisions.
 
-In conclusion, data science and machine learning are two complementary fields that are used to extract insights from data. Data science involves the study of data, while machine learning involves developing algorithms that can learn from data. Together, they form a powerful combination that can be used to solve complex problems and make data-driven decisions.
+## Content 
+The following is the list of algorithms developed and discussed in this portfolio. 
 
+1. Perceptron
+2. Gradient Descent 
+3. Logistic Regression
 
+## Datasets
+All datasets used in this work are publically available. The source and description of each dataset used is provided within the respective model. 
+
+## About the Author
+### Kashif Liaqat
+Kashif is a Ph.D. student in the department of Mechanical Engineering at Rice University. His areas of research are energy systems, thermal fluids, and machine learning. Check the following links to know more about Kashif: [Personal Web](https://kashifliaqat.github.io/), [Google Scholar](https://scholar.google.com/citations?user=wad9lnIAAAAJ&hl=en).
+
+## References/Resources
+[An Introduction to Machine Learning, Its Importance, Types, and Applications](https://www.fsm.ac.in/blog/an-introduction-to-machine-learning-its-importance-types-and-applications/)
 
 
 
