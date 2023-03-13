@@ -1,3 +1,8 @@
+<img src="images/ML.jpg" alt="Machine Learning" width="500" height="300">
+
+
+
+
 # Data_Science_and_Machine-Learning
 INDE 577 @ Rice University - Spring 2023
 
