@@ -30,7 +30,7 @@ Classification is a supervised learning problem where the output variable is dis
 - Examples of classification problems include predicting whether an email is spam or not, predicting the species of a flower based on its characteristics, or predicting whether a customer will buy a product or not.
 
 ## Supervised Learning Models 
-The following is the list of supervised algorithms developed and discussed in this repo. 
+The following is the list of supervised learning algorithms developed and discussed in this repo. 
 
 - [Perceptron](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/1_Perceptron)
 - [Gradient Descent](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/2_Gradient%20Descent) 
