@@ -1,7 +1,7 @@
 # Supervised Learning
 Supervised Learning involves training a model on labeled data to make predictions on unseen or future data. In supervised learning, the input data is accompanied by the correct output, and the algorithm learns to map the input to the output by minimizing a loss function.
 
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/supervised_learning.PNG" alt="Supervised Learning">
+<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/supervised_learning.PNG" alt="Supervised Learning" width="600" height="300">
 
 Image Source: [Symmetry (MDPI)](https://www.mdpi.com/2073-8994/10/12/734)
 
