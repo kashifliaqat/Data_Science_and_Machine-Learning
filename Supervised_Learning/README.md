@@ -15,6 +15,10 @@ The most commonly used loss functions in supervised learning are mean squared er
 ## Types of Supervised Learning
 There are two types of supervised learning: regression and classification.
 
+<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/reg_vs_class.PNG" alt="Regression vs Classification" width="600" height="300">
+
+Image Source: [Regression vs Classification, Explained, SHARP SIGHT](https://www.sharpsightlabs.com/blog/regression-vs-classification/)
+
 ### Regression
 Regression is a supervised learning problem where the output variable is continuous. The goal of regression is to learn a function that predicts a continuous output variable given one or more input variables.
 
