@@ -33,6 +33,7 @@ where $g$ is the non-linear activation function and $z$ is the weighted sum of t
 In logistic regression, we want to predict the probability of a binary outcome given a set of input features. Let's say we have $m$ training examples with $n$ input features. We can represent each training example as a vector of $n$ input features, denoted by $\mathbf{x}^{(i)}$. The corresponding binary outcome for each example is denoted by $y^{(i)}$, where $y^{(i)} \in {0,1}$.
 
 We can train the neuron using a cost function known as the cross-entropy loss:
+
 $$ J(\mathbf{w},b) = -\frac{1}{m} \sum_{i=1}^{m} \left[ y^{(i)} \log(h_{\mathbf{w},b}(\mathbf{x}^{(i)})) + (1-y^{(i)}) \log(1 - h_{\mathbf{w},b}(\mathbf{x}^{(i)})) \right] $$
 
 where $\mathbf{w}$ and $b$ are the weights and bias term of the neuron, $m$ is the number of training examples, $y^{(i)}$ is the true binary outcome of the $ith$ training example, $\mathbf{x}^{(i)}$ is the input feature vector of the $ith$ training example, and $h_{\mathbf{w},b}(\mathbf{x})$ is the output of the neuron given the input vector $\mathbf{x}$ and the parameters $\mathbf{w}$ and $b$.
