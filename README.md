@@ -1,5 +1,7 @@
 <img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/ML.jpg" alt="Machine Learning" width="800" height="500">
 
+Image Source: [FORE School Of Management](https://www.fsm.ac.in/blog/an-introduction-to-machine-learning-its-importance-types-and-applications/)
+
 
 # Data Science and Machine Learning
 This repo is developed as a course portfolio for the graduate class "INDE 577 - Data Science and Machine Learning" at Rice University, Sping 2023. 
