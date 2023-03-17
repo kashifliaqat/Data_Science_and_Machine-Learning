@@ -4,7 +4,7 @@
 # Data Science and Machine Learning
 This repo is developed as a course portfolio for the graduate class "INDE 577 - Data Science and Machine Learning" at Rice University, Sping 2023. 
 
-In this course, multiple algorithms for supervised, unsupervised, and reinforcement learning are discussed. The machine learning algorithms are implemented from scract as well as uisng state-of-the-art packages such as Scikit-Learn, Keras, and Tensorflow. 
+In this course, multiple algorithms for supervised, unsupervised, and reinforcement learning are discussed. The machine learning algorithms are implemented from scracth as well as uisng state-of-the-art packages such as Scikit-Learn, Keras, and Tensorflow. 
 
 ## Introduction to Machine Learning and Data Science
 
