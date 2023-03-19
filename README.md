@@ -1,5 +1,7 @@
 <img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/ML.jpg" alt="Machine Learning" width="800" height="500">
 
+Image Source: [FORE School Of Management](https://www.fsm.ac.in/blog/an-introduction-to-machine-learning-its-importance-types-and-applications/)
+
 
 # Data Science and Machine Learning
 This repo is developed as a course portfolio for the graduate class "INDE 577 - Data Science and Machine Learning" at Rice University, Sping 2023. 
@@ -47,7 +49,8 @@ Python, Visual Studio Code, Jupyter Nootbooks, Scikit-learn, TensorFlow, Keras, 
 Kashif is a Ph.D. student in the department of Mechanical Engineering at Rice University. His areas of research are energy systems, thermal fluids, and machine learning. Check the following links to know more about Kashif: [Personal Web](https://kashifliaqat.github.io/), [Google Scholar](https://scholar.google.com/citations?user=wad9lnIAAAAJ&hl=en).
 
 ## References/Resources
-[An Introduction to Machine Learning, Its Importance, Types, and Applications](https://www.fsm.ac.in/blog/an-introduction-to-machine-learning-its-importance-types-and-applications/)
+- [An Introduction to Machine Learning, Its Importance, Types, and Applications](https://www.fsm.ac.in/blog/an-introduction-to-machine-learning-its-importance-types-and-applications/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 
 
