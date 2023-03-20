@@ -3,7 +3,7 @@
 ## Tasks
 1. Build a multilayer feedforward network from scratch and implement for the Fashion MNIST classification problem.
     - Notebook: [Task1_Deep_NN_scratch](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/blob/main/Supervised_Learning/5_Deep_Neural_Network/Task1_Deep_NN_scratch.ipynb)
-2. Build a multilayer feedforward network using `tensorflow` and `keras` for the classification problem.
+2. Build a multilayer feedforward network using `tensorflow` and `keras` for the Fashion MNIST classification problem.
     - Notebook: [Task2_Deep_NN_Tensorflow](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/blob/main/Supervised_Learning/5_Deep_Neural_Network/Task2_Deep_NN_Tensorflow.ipynb)
 
 ## Dataset
@@ -29,14 +29,12 @@ The dataset is intended as a drop-in replacement for the original MNIST dataset,
 ## The Multilayer Perceptron
 A multilayer feedforward network, also known as a multilayer perceptron (MLP), is a type of artificial neural network (ANN) that consists of multiple layers of nodes, each connected to the next. The nodes in each layer are fully connected to the nodes in the next layer, but there are no connections between nodes within the same layer. The following figures provides an examples of MLP architecture.
 
-<div style="text-align:center">
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/NN_gif.gif" alt="1 Hidden MultiLayer Perceptron" width="500" height="300">
-</div>
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/NN_gif.gif" alt="1 Hidden MultiLayer Perceptron" width="500" height="300">
+
 <p align="center"><em>MLP with one hidden layer.</em></p>
 
-<div style="text-align:center">
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/MLP.png" alt="MultiLayer Perceptron" width="500" height="300">
-</div>
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/MLP.png" alt="MultiLayer Perceptron" width="500" height="300">
+
 <p align="center"><em>MLP with two hidden layers.</em></p>
 
 Source for Images: [Medium](https://miro.medium.com/v2/resize:fit:1000/1*3fA77_mLNiJTSgZFhYnU0Q.png)
