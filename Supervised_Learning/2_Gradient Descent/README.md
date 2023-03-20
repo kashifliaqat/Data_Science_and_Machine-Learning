@@ -17,7 +17,7 @@ Batch gradient descent is an optimization algorithm that can be used to minimize
 ### Working of Gradient Descent
 Gradient Descent is an optimization algorithm used to minimize the cost function of a machine learning model. It works by iteratively adjusting the weights of the model in the opposite direction of the gradient of the Mean Squared Error (MSE) loss function with respect to the weights, in order to find the local minimum of the cost function.
 
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/grad_desc.png" alt="Gradient Descent">
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/grad_desc.png" alt="Gradient Descent">
 
 Image Source: [Gradient Descent in Machine Learning, Java T Point](https://www.javatpoint.com/gradient-descent-in-machine-learning)
 
