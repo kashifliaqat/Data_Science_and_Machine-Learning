@@ -9,7 +9,7 @@ The [Concrete Compressive Strength Data Set](https://archive.ics.uci.edu/ml/data
 ## Linear Regression
 Linear regression is a type of regression analysis that is used to predict a continuous target variable y based on one or more input features X. The model assumes a linear relationship between the input features and the target variable, and tries to fit a linear function to the data. In single neuron linear regression, a single neuron is used to model the relationship between the input variables and the output variable.
 
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/linear_reg.PNG" alt="Linear Regression" width="600" height="300">
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/linear_reg.PNG" alt="Linear Regression" width="600" height="250">
 
 Image Source: [Understanding Artificial Neural Network With Linear Regression, AIM](https://analyticsindiamag.com/ann-with-linear-regression/)
 
