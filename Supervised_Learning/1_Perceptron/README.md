@@ -14,7 +14,7 @@ The perceptron is a single-layer neural network that can be used for binary clas
 The perceptron is inspired by the structure and function of biological neurons in the human brain. Like biological neurons, artificial neurons in a perceptron receive input signals from other neurons, process these signals, and produce output signals.
 
 The perceptron consists of one or more input units, a bias unit, and a single output unit, as shown in the following diagram:
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/perceptron.png" alt="The Perceptron">
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/perceptron.png" alt="The Perceptron">
 
 Image Source: [Keras Tutorial: Deep Learning in Python](https://www.datacamp.com/tutorial/deep-learning-python) 
 
