@@ -11,7 +11,7 @@ A detailed description and visualization of the cancer dataset is provided in th
 ## The Logistic Regression Algorithm
 Logistic regression is a classification algorithm used to predict the probability of a binary outcome (e.g. 0 or 1, yes or no, true or false) given a set of input features. It is a form of supervised learning and is commonly used in machine learning applications such as image recognition, natural language processing, and medical diagnosis. 
 
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/log_reg.PNG" alt="Logistic Regression" width="700" height="300">
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/log_reg.PNG" alt="Logistic Regression" width="700" height="300">
 
 Image Source: [Simplifying Logistic Regression, DZone](https://dzone.com/articles/machinex-simplifying-logistic-regression)
 
