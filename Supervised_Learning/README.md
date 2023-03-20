@@ -36,3 +36,4 @@ The following is the list of supervised learning algorithms developed and discus
 - [Gradient Descent](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/2_Gradient%20Descent) 
 - [Single Neuron Linear Regression](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/3_Single_Neuron_Linear_Regression)
 - [Logistic Regression](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/4_Logistic_Regression)
+- [Deep Neural Network (Multilayer Perceptron)](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/5_Deep_Neural_Network)
