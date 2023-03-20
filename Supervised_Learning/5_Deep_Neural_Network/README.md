@@ -27,17 +27,19 @@ The dataset is intended as a drop-in replacement for the original MNIST dataset,
 - More information and data visualization is provided in [Task1_Deep_NN_scratch](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/blob/main/Supervised_Learning/5_Deep_Neural_Network/Task1_Deep_NN_scratch.ipynb).
 
 ## The Multilayer Perceptron
-A multilayer feedforward network, also known as a multilayer perceptron (MLP), is a type of artificial neural network (ANN) that consists of multiple layers of nodes, each connected to the next. The nodes in each layer are fully connected to the nodes in the next layer, but there are no connections between nodes within the same layer. The following figure provides an example of MLP architecture:
+A multilayer feedforward network, also known as a multilayer perceptron (MLP), is a type of artificial neural network (ANN) that consists of multiple layers of nodes, each connected to the next. The nodes in each layer are fully connected to the nodes in the next layer, but there are no connections between nodes within the same layer. The following figures provides an examples of MLP architecture.
 
 <div style="text-align:center">
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/NN_gif.gif" alt="MultiLayer Perceptron">
+<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/NN_gif.gif" alt="1 Hidden MultiLayer Perceptron" width="500" height="300">
 </div>
+<p align="center"><em>MLP with one hidden layer.</em></p>
 
 <div style="text-align:center">
-<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/MLP.png" alt="MultiLayer Perceptron" width="300" height="200">
+<img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/MLP.png" alt="MultiLayer Perceptron" width="500" height="300">
 </div>
+<p align="center"><em>MLP with two hidden layers.</em></p>
 
-Image Source: [Medium](https://miro.medium.com/v2/resize:fit:1000/1*3fA77_mLNiJTSgZFhYnU0Q.png)
+Source for Images: [Medium](https://miro.medium.com/v2/resize:fit:1000/1*3fA77_mLNiJTSgZFhYnU0Q.png)
 
 ### Mathematical Formation
 The mathematical formulation of an MLP can be described as follows. Let $X$ be the input to the network, and let $Y$ be the desired output. The network consists of $L$ layers, where the first layer is the input layer, the last layer is the output layer, and the remaining layers are hidden layers. The output of the $jth$ node in the $ith$ layer is denoted by $h_i^j$. The weights connecting the $jth$ node in layer $i$ to the $kth$ node in layer $i+1$ are denoted by $w_i^j,k$, and the biases of the $kth$ node in layer $i+1$ are denoted by $b_i^k$.
@@ -96,3 +98,4 @@ By adjusting the hyperparamters such as number of layers, the number of nodes in
 
 ## Resources/References
 1. [Fashion MNIST dataset](https://www.tensorflow.org/datasets/catalog/fashion_mnist)
+2. [Understanding Neural Networks - Medium](https://prince-canuma.medium.com/understanding-neural-networks-22b29755abd9)
