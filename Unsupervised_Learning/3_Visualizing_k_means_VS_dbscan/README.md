@@ -31,5 +31,9 @@ Another difference between the two algorithms is that DBSCAN can handle outliers
 
 In summary, K-means is a centroid-based algorithm that requires the number of clusters to be specified in advance and can only handle data that can be represented by a mean vector. DBSCAN is a density-based algorithm that can identify clusters of arbitrary shape and can handle outliers.
 
+To learn more about the models, visit the following implementations in this repository:
+1. [K-Means Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/1_k_means_clustering)
+2. [DBSCAN Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/2_DBSCAN)
+
 ## References/Resources 
 - [NSHipster/DNSCAN - GitHub](https://github.com/NSHipster/DBSCAN)
