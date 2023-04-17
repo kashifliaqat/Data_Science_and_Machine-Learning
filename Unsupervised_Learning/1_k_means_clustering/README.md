@@ -21,7 +21,7 @@ Explanation of each variable in the Dataset:
 ## The K-Means Clustering Algorithm
 K-means clustering is an unsupervised machine learning technique that aims to partition a dataset into K clusters, where K is a user-defined hyperparameter. The algorithm works by iteratively assigning each data point to the closest cluster centroid and then recomputing the centroid based on the new assignment. The process continues until the assignments converge, i.e., they no longer change.
 
-<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/kmeans.PNG" alt="K-Means Clustering" width="500 height="300">
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/kmeans.png" alt="K-Means Clustering" width="500 height="300">
 
 
 Image Source: [javaTpoint](https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning)
