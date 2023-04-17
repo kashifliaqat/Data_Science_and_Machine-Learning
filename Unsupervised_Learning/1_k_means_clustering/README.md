@@ -40,26 +40,18 @@ The working of the K-means algorithm can be explained as follows:
 Mathematically, the K-means algorithm can be formulated as follows:
 
 1. Initialize K cluster centroids:
-$$
-c_1, c_2, ..., c_K
-$$
+$$c_1, c_2, ..., c_K$$
 2. Assign each data point to the nearest centroid:
-$$
-argmin_j ||x_i - c_j||^2
-$$
+$$argmin_j ||x_i - c_j||^2$$
 where $x_i$ is the i-th data point and $c_j$ is the j-th centroid.
 3. Recalculate the centroids based on the mean of the points assigned to each cluster:
-$$
-c_j = (1/|S_j|) * sum_{i in S_j} x_i
-$$
+$$c_j = (1/|S_j|) * sum_{i in S_j} x_i$$
 where $S_j$ is the set of data points assigned to cluster j.
 
 4. Repeat steps 2 and 3 until convergence.
 
 The objective function of K-means clustering is given by the sum of squared distances between each data point and its assigned centroid:
-$$
-J(c_1, ..., c_K) = sum_{i=1}^n ||x_i - c_{k(i)}||^2
-$$
+$$J(c_1, ..., c_K) = sum_{i=1}^n ||x_i - c_{k(i)}||^2$$
 
 where $k(i)$ is the index of the centroid that the i-th data point is assigned to.
 
