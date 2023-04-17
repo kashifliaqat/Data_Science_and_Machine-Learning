@@ -1,4 +1,4 @@
-# # Visualizing: K-Means VS DBSCAN
+# Visualizing: K-Means VS DBSCAN
 
 ## Task
 Visualize the K-Means and DBSCAN clustering algorithms uisng `make_blobs`, `make_moons`, and `make_circles` datasets. 
@@ -17,8 +17,7 @@ The datasets blobs, moon, and circles are synthetic datasets commonly used in ma
 ## DBSCAN vs K-Means
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) and K-means are both clustering algorithms that are used in unsupervised machine learning.
 
-<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/db_vs_K.PNG" alt="DBSCAN vs K-Means" width="500 height="300">
-
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/db_vs_k.PNG" alt="DBSCAN vs K-Means" width="500 height="300">
 
 Image Source: [NSHipster - GitHub](https://github.com/NSHipster/DBSCAN)
 
