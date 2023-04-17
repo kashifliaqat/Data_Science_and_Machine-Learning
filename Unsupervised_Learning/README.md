@@ -1,39 +1,34 @@
-# Supervised Learning
-Supervised Learning involves training a model on labeled data to make predictions on unseen or future data. In supervised learning, the input data is accompanied by the correct output, and the algorithm learns to map the input to the output by minimizing a loss function.
+# Unsupervised Learning
+Unsupervised learning is a type of machine learning that involves discovering patterns and relationships in data without explicit supervision or guidance from labeled examples. 
 
-<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/supervised_learning.PNG" alt="Supervised Learning" width="600" height="300">
+In other words, the algorithm is left to find structure and patterns in the data on its own, without being told what features to look for or what the correct output should be. This makes unsupervised learning particularly useful in scenarios where labeled data is not available or difficult to obtain.
 
-Image Source: [Symmetry (MDPI)](https://www.mdpi.com/2073-8994/10/12/734)
+**Mathematically**, unsupervised learning can be formulated as finding a representation or model for a given dataset, without any prior knowledge about the underlying structure. The objective is to minimize a certain cost function that captures the discrepancy between the input data and the model. This is typically done by iteratively updating the model parameters until convergence is reached.
 
-## Mathematical Formulation
-Suppose we have a dataset with $n$ samples and $m$ features. In supervised learning, each sample $i$ has an input feature vector $\boldsymbol{x}_i$ and an output label $y_i$. We can represent the dataset as a set of pairs ${( \boldsymbol{x}_1, y_1), (\boldsymbol{x}_2, y_2),..., (\boldsymbol{x}_n, y_n)}$.
+<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/unsupervised.PNG" alt="Unsupervised Learning" width="500" height="300">
 
-The goal of supervised learning is to learn a function $f(\boldsymbol{x})$ that maps input feature vectors $\boldsymbol{x}$ to their corresponding output labels $y$. The function $f(\boldsymbol{x})$ is often represented as a model with parameters $(\boldsymbol{w})$. We can find the optimal values of $(\boldsymbol{w})$ by minimizing a loss function $L(\boldsymbol{w})$ that measures the difference between the predicted output and the actual output.
+Image Source: [NIXUS](https://nixustechnologies.com/unsupervised-machine-learning/)
 
-The most commonly used loss functions in supervised learning are mean squared error (MSE), cross-entropy loss, and hinge loss. The choice of loss function depends on the problem at hand and the type of output variable.
+### Types of Unsupervised Learning
+There are several types of unsupervised learning, including:
 
-## Types of Supervised Learning
-There are two types of supervised learning: regression and classification.
+1. **Clustering:** In clustering, the goal is to group together similar data points into clusters based on some similarity measure. Examples of clustering algorithms include k-means, hierarchical clustering, and DBSCAN.
 
-<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/reg_vs_class.PNG" alt="Regression vs Classification" width="600" height="340">
+2. **Dimensionality reduction:** In dimensionality reduction, the goal is to reduce the number of features or dimensions of the input data while preserving as much information as possible. Examples of dimensionality reduction algorithms include PCA, t-SNE, and autoencoders.
 
-Image Source: [Regression vs Classification, Explained, SHARP SIGHT](https://www.sharpsightlabs.com/blog/regression-vs-classification/)
+3. **Anomaly detection:** In anomaly detection, the goal is to identify data points that are significantly different from the rest of the dataset. Examples of anomaly detection algorithms include one-class SVM and isolation forest.
 
-### Regression
-Regression is a supervised learning problem where the output variable is continuous. The goal of regression is to learn a function that predicts a continuous output variable given one or more input variables.
+4. **Association rule learning:** In association rule learning, the goal is to discover relationships between variables in the dataset. Examples of association rule learning algorithms include Apriori and FP-growth.
 
-- Examples of regression problems include predicting housing prices, stock prices, or the amount of rainfall in a given area.
+Overall, unsupervised learning plays a crucial role in many areas of data science, from exploratory data analysis to feature engineering and data preprocessing.
 
-### Classification
-Classification is a supervised learning problem where the output variable is discrete. The goal of classification is to learn a function that predicts a discrete output variable given one or more input variables.
+## Unsupervised Learning Models 
+The following is the list of unsupervised learning algorithms developed and discussed in this repo. 
 
-- Examples of classification problems include predicting whether an email is spam or not, predicting the species of a flower based on its characteristics, or predicting whether a customer will buy a product or not.
+1. [K-Means Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/1_k_means_clustering)
+2. [DBSCAN]()
 
-## Supervised Learning Models 
-The following is the list of supervised learning algorithms developed and discussed in this repo. 
 
-- [Perceptron](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/1_Perceptron)
-- [Gradient Descent](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/2_Gradient%20Descent) 
-- [Single Neuron Linear Regression](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/3_Single_Neuron_Linear_Regression)
-- [Logistic Regression](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/4_Logistic_Regression)
-- [Deep Neural Network (Multilayer Perceptron)](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Supervised_Learning/5_Deep_Neural_Network)
+## References
+- [Unsupervised Learning Types, Algorithms and Applications - NIXUS](https://nixustechnologies.com/unsupervised-machine-learning/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
