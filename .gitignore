@@ -1,2 +1,2 @@
-# Exclude test folder
-test
+# Exclude virtual environment
+ds-ml-env
