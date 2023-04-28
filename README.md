@@ -46,6 +46,7 @@ The following is the list of algorithms developed and discussed in this portfoli
 4. [Principal Component Analysis](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/4_PCA)
 
 ### Reinforcement Learning
+1. [CartPole Problem](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Reinforcement_Learning)
 
 ## Datasets
 All datasets used in this work are publically available. The source and description of each dataset used is provided within the respective model. 
