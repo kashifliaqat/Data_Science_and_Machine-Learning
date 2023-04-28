@@ -43,6 +43,7 @@ The following is the list of algorithms developed and discussed in this portfoli
 1. [K-Means Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/1_k_means_clustering)
 2. [DBSCAN Clustering](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/2_DBSCAN)
 3. [Visualizing: K-Means vs DBSCAN](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/3_Visualizing_k_means_VS_dbscan)
+4. [Principal Component Analysis](https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/tree/main/Unsupervised_Learning/4_PCA)
 
 ### Reinforcement Learning
 
